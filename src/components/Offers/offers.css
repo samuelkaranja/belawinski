@@ -1,0 +1,40 @@
+.offers {
+  display: flex;
+  justify-content: space-between;
+  background: #000;
+  height: 40vh;
+  padding: 50px 300px;
+}
+
+h4 {
+  margin: 0;
+  font-size: 25px;
+  font-weight: bold;
+  text-align: center;
+  padding-bottom: 30px;
+}
+
+.opening .list .item,
+.happyhour .list .item {
+  padding-bottom: 20px;
+  text-align: center;
+}
+
+.opening .list .item span,
+.happyhour .list .item span {
+  display: block;
+}
+
+h5 {
+  text-align: center;
+  font-size: 16px;
+}
+
+.offers .image {
+  width: 35%;
+  height: 40vh;
+  background-image: url("../../assets/images/glass.jpg");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+}
