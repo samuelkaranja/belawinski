@@ -35,11 +35,6 @@ const Offers: React.FC = () => {
             <span>2 cocktails @200</span>
             <span>15% off all cocktails</span>
           </div>
-          
-          <div className="item">
-            <span>Monday - Friday</span>
-            <span>7:00 pm - 11:00 pm</span>
-          </div>
 
           <div className="item">
             <span>2 cocktails @300</span>
